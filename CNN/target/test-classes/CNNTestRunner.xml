@@ -19,8 +19,9 @@
             <!--<class name="testPages.TestExcelReaderPage"/>-->
             <!--<class name="testPages.TestEntertainmentPage"/>-->
             <!--<class name="testPages.TestSigninPage"/>-->
-            <class name="testPages.TestSportPage"/>
             <!--<class name="testPages.TestSportPage"/>-->
+            <!--<class name="testPages.TestSportPage"/>-->
+            <class name="testPages.TestCreateAccountPage"/>
 
         </classes>
     </test>
