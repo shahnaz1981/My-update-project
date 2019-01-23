@@ -4,8 +4,37 @@
     <list default="true" id="e09da35e-d827-437e-ba32-ed604e4d766b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../TechnicalA/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TechnicalA/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CNN/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/main/java/pages/EntertainmentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/src/main/java/pages/EntertainmentPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/main/java/pages/PoliticalPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/src/main/java/pages/PoliticalPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/main/java/pages/SigninPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/src/main/java/pages/SigninPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/main/java/pages/SportPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/src/main/java/pages/SportPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/test/java/testPages/TestEntertainmentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/src/test/java/testPages/TestEntertainmentPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/test/java/testPages/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/src/test/java/testPages/TestHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/test/java/testPages/TestPoliticalPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/src/test/java/testPages/TestPoliticalPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/test/java/testPages/TestSportPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/src/test/java/testPages/TestSportPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CNN/src/test/resources/CNNTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/src/test/resources/CNNTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/classes/helper/ExcelReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/classes/helper/ExcelReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/classes/pages/ExcelReaderPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/classes/pages/ExcelReaderPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/classes/pages/PoliticalPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/classes/pages/PoliticalPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/classes/pages/SigninPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/classes/pages/SigninPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/test-classes/CNNTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/test-classes/CNNTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/test-classes/testPages/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/test-classes/testPages/TestHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/test-classes/testPages/TestPoliticalPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/test-classes/testPages/TestPoliticalPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/utility/DataReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/utility/DataReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../xyz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xyz/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,47 +58,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestSearchFeature.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestSearchPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestSigninPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestSportPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/SportPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="137" column="75" selection-start-line="137" selection-start-column="75" selection-end-line="137" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNN/src/test/resources/CNNTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="252" column="13" selection-start-line="252" selection-start-column="13" selection-end-line="252" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#22058#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestHomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-196">
-              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/CreateAccountPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="162">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -77,26 +123,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/EntertainmentPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+            <state relative-caret-position="272">
+              <caret line="72" column="83" selection-start-line="72" selection-start-column="83" selection-end-line="72" selection-end-column="83" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestEntertainmentPage.java">
+        <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/SearchPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="96" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="96" />
+            <state relative-caret-position="-34">
+              <caret line="41" column="62" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestCreateAccountPage.java">
+        <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/SigninPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+            <state relative-caret-position="380">
+              <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,34 +154,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/ExcelReaderPage.java">
+        <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/FooterLinkPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="18" column="183" selection-start-line="18" selection-start-column="183" selection-end-line="18" selection-end-column="183" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestPoliticalPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-476">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1816">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="142">
+              <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -161,29 +186,44 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/Student.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" />
-        <option value="$PROJECT_DIR$/CNN/src/main/java/pages/HomePage.java" />
-        <option value="$PROJECT_DIR$/CNN/src/main/java/pages/PoliticalPage.java" />
-        <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/TestHomePage.java" />
         <option value="$PROJECT_DIR$/Generic/secret.properties.xml" />
         <option value="$PROJECT_DIR$/Generic/secret.properties" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
         <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/TestExcelReaderPage.java" />
         <option value="$PROJECT_DIR$/CNN/src/main/java/helper/XSSFWorkbook.java" />
         <option value="$PROJECT_DIR$/CNN/pom.xml" />
-        <option value="$PROJECT_DIR$/CNN/src/main/java/pages/EntertainmentPage.java" />
-        <option value="$PROJECT_DIR$/CNN/src/main/java/pages/SigninPage.java" />
-        <option value="$PROJECT_DIR$/CNN/src/main/java/pages/SportPage.java" />
-        <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/TestEntertainmentPage.java" />
         <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/TestSigninPage.java" />
-        <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/TestSportPage.java" />
         <option value="$PROJECT_DIR$/CNN/src/main/java/pages/ExcelReaderPage.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/CNN/src/main/java/pages/AccountCreatingPage.java" />
-        <option value="$PROJECT_DIR$/CNN/src/test/resources/CNNTestRunner.xml" />
         <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/TestCreateAccountPage.java" />
         <option value="$PROJECT_DIR$/CNN/src/main/java/pages/CreateAccountPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/pages/SigninPage.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/signInPageObjects/GoogleSheetsPage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/signInPageObjects/LoginPageLatest.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/testSignInPageObjects/TestGoogleSheetLatest.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/TestPoliticalPage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/pages/PoliticalPage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/pages/SearchFeatures.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/TestSearch.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/datasource/DatabaseOperation.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/pages/SearchPageForSQLDB.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/pages/SearchPage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/TestSearchFeature.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/TestSearchPage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/FooterLinkPage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/TestFooterLinkPage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/TestEntertainmentPage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/pages/EntertainmentPage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/resources/CNNTestRunner.xml" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/testPages/TestSportPage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/pages/SportPage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/pages/FooterLinkPage.java" />
       </list>
     </option>
   </component>
@@ -199,29 +239,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="CNN" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="CNN" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="WebAutomationTasneemCNN2019" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="WebAutomationTasneemCNN2019" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -243,6 +265,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,18 +283,6 @@
               <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationTasneemCNN2019" type="462c0819:PsiDirectoryNode" />
               <item name="CNN" type="462c0819:PsiDirectoryNode" />
-              <item name="Extent-Report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationTasneemCNN2019" type="462c0819:PsiDirectoryNode" />
-              <item name="CNN" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationTasneemCNN2019" type="462c0819:PsiDirectoryNode" />
-              <item name="CNN" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -295,16 +307,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="excelData" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationTasneemCNN2019" type="462c0819:PsiDirectoryNode" />
-              <item name="CNN" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="helper" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
@@ -314,6 +317,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationTasneemCNN2019" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="signInPageObjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
@@ -345,12 +357,27 @@
               <item name="CNN" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testSignInPageObjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationTasneemCNN2019" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationTasneemCNN2019" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationTasneemCNN2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
@@ -394,31 +421,6 @@
             <path>
               <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationTasneemCNN2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="reporting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationTasneemCNN2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utility" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationTasneemCNN2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationTasneemCNN2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationTasneemCNN2019" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -437,27 +439,25 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547868952368" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548266622752" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/HBOproject/The-A-Team/HBO" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="helper" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mohamed .LAPTOP-QCE4AIJL\IdeaProjects\WebAutomationTasneemCNN2019\CNN\src\test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mohamed .LAPTOP-QCE4AIJL\IdeaProjects\WebAutomationTasneemCNN2019\Generic\src\main\resources" />
       <recent name="C:\Users\mohamed .LAPTOP-QCE4AIJL\IdeaProjects\WebAutomationTasneemCNN2019\CNN\src\main\java\excelData" />
       <recent name="C:\Users\mohamed .LAPTOP-QCE4AIJL\IdeaProjects\WebAutomationTasneemCNN2019\CNN\src\main\java" />
       <recent name="C:\Users\mohamed .LAPTOP-QCE4AIJL\IdeaProjects\WebAutomationTasneemCNN2019\Generic\driver" />
       <recent name="C:\Users\mohamed .LAPTOP-QCE4AIJL\IdeaProjects\WebAutomationTasneemCNN2019\Generic" />
-      <recent name="C:\Users\mohamed .LAPTOP-QCE4AIJL\IdeaProjects\WebAutomationTasneemCNN2019\Generic\browser-driver" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="testPages" />
@@ -465,8 +465,8 @@
       <recent name="helper" />
       <recent name="utility" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mohamed .LAPTOP-QCE4AIJL\IdeaProjects\WebAutomationTasneemCNN2019\CNN\src\test" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="helper" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -482,8 +482,8 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.C:/Users/mohamed .LAPTOP-QCE4AIJL/IdeaProjects/WebAutomationTasneemCNN2019/CNN/src/test/resources/CNNTestRunner.xml">
-    <configuration name="ConnectToMongoDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="databases.ConnectToMongoDB" />
+    <configuration name="ConnectToSqlDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="databases.ConnectToSqlDB" />
       <module name="Generic" />
       <extension name="coverage">
         <pattern>
@@ -495,12 +495,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConnectToSqlDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="databases.ConnectToSqlDB" />
-      <module name="Generic" />
+    <configuration name="DatabaseOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datasource.DatabaseOperation" />
+      <module name="CNN" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="databases.*" />
+          <option name="PATTERN" value="datasource.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -518,7 +518,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCreateAccountPage.testSignUpOption" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFooterLinkPage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CNN" />
       <extension name="coverage">
         <pattern>
@@ -527,16 +527,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testPages" />
-      <option name="MAIN_CLASS_NAME" value="testPages.TestCreateAccountPage" />
-      <option name="METHOD_NAME" value="testSignUpOption" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="testPages.TestFooterLinkPage" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPoliticalPage.testPoliticalHeaderLink" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSportPage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CNN" />
       <extension name="coverage">
         <pattern>
@@ -545,9 +543,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testPages" />
-      <option name="MAIN_CLASS_NAME" value="testPages.TestPoliticalPage" />
-      <option name="METHOD_NAME" value="testPoliticalHeaderLink" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="testPages.TestSportPage" />
       <properties />
       <listeners />
       <method v="2">
@@ -557,10 +553,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/mohamed .LAPTOP-QCE4AIJL/IdeaProjects/WebAutomationTasneemCNN2019/CNN/src/test/resources/CNNTestRunner.xml" />
-        <item itemvalue="TestNG.TestCreateAccountPage.testSignUpOption" />
+        <item itemvalue="TestNG.TestSportPage" />
+        <item itemvalue="TestNG.TestFooterLinkPage" />
+        <item itemvalue="Application.DatabaseOperation" />
         <item itemvalue="Application.ConnectToSqlDB" />
-        <item itemvalue="Application.ConnectToMongoDB" />
-        <item itemvalue="TestNG.TestPoliticalPage.testPoliticalHeaderLink" />
       </list>
     </recent_temporary>
   </component>
@@ -578,42 +574,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.18 at 21h 31m 39s.xml">
+    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.23 at 00h 44m 42s.xml">
       <configuration name="C:/Users/mohamed .LAPTOP-QCE4AIJL/IdeaProjects/WebAutomationTasneemCNN2019/CNN/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.18 at 21h 33m 31s.xml">
+    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.23 at 10h 26m 57s.xml">
       <configuration name="C:/Users/mohamed .LAPTOP-QCE4AIJL/IdeaProjects/WebAutomationTasneemCNN2019/CNN/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.18 at 21h 35m 13s.xml">
+    <history-entry file="TestFooterLinkPage - 2019.01.23 at 10h 37m 59s.xml">
+      <configuration name="TestFooterLinkPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.23 at 10h 40m 13s.xml">
       <configuration name="C:/Users/mohamed .LAPTOP-QCE4AIJL/IdeaProjects/WebAutomationTasneemCNN2019/CNN/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCreateAccountPage_testSignUpOption - 2019.01.18 at 21h 47m 11s.xml">
-      <configuration name="TestCreateAccountPage.testSignUpOption" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.18 at 21h 48m 03s.xml">
+    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.23 at 10h 44m 59s.xml">
       <configuration name="C:/Users/mohamed .LAPTOP-QCE4AIJL/IdeaProjects/WebAutomationTasneemCNN2019/CNN/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.18 at 22h 04m 43s.xml">
+    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.23 at 10h 55m 25s.xml">
       <configuration name="C:/Users/mohamed .LAPTOP-QCE4AIJL/IdeaProjects/WebAutomationTasneemCNN2019/CNN/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.18 at 22h 05m 41s.xml">
+    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.23 at 11h 13m 43s.xml">
       <configuration name="C:/Users/mohamed .LAPTOP-QCE4AIJL/IdeaProjects/WebAutomationTasneemCNN2019/CNN/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.18 at 22h 06m 31s.xml">
+    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.23 at 12h 02m 59s.xml">
       <configuration name="C:/Users/mohamed .LAPTOP-QCE4AIJL/IdeaProjects/WebAutomationTasneemCNN2019/CNN/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.18 at 22h 14m 14s.xml">
-      <configuration name="C:/Users/mohamed .LAPTOP-QCE4AIJL/IdeaProjects/WebAutomationTasneemCNN2019/CNN/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="TestSportPage - 2019.01.23 at 12h 49m 20s.xml">
+      <configuration name="TestSportPage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.18 at 22h 15m 25s.xml">
+    <history-entry file="C__Users_mohamed__LAPTOP-QCE4AIJL_IdeaProjects_WebAutomationTasneemCNN2019_CNN_src_test_resources_CNNTestRunner_xml - 2019.01.23 at 13h 01m 45s.xml">
       <configuration name="C:/Users/mohamed .LAPTOP-QCE4AIJL/IdeaProjects/WebAutomationTasneemCNN2019/CNN/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22550336" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22550336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -622,12 +617,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32577905" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34844193" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1388102" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.07932011" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -635,7 +630,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" sideWeight="0.49858356" visible="true" weight="0.16040269" />
+      <window_info anchor="right" id="Maven" order="4" sideWeight="0.49858356" visible="true" weight="0.024832215" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
@@ -644,7 +639,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSql.java" />
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -662,99 +656,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/CNN/screenshots/TestDropHandle (01.15.2019-22">
-      <provider editor-type-id="images" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/secret.properties.xml" />
     <entry file="file://$PROJECT_DIR$/CNN/src/main/java/helper/XSSFWorkbook.java" />
-    <entry file="file://$PROJECT_DIR$/CNN/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/SportPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestSigninPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestExcelReaderPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11020">
-          <caret line="581" column="8" selection-start-line="581" selection-start-column="8" selection-end-line="581" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/SigninPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestSportPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/PoliticalPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1480">
-          <caret line="84" column="33" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/helper/ExcelReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-405">
@@ -803,13 +709,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/helper/ExcelReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/Extent-Report/ExtentReport.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/client_id.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/api-client/google-api-client/1.23.0/google-api-client-1.23.0.jar!/com/google/api/client/googleapis/services/AbstractGoogleClientRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="84" column="33" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1062">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
+        <state relative-caret-position="228">
           <caret line="95" column="20" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/signInPageObjects/LoginPageLatest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/signInPageObjects/GoogleSheetsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -822,22 +802,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="820">
-          <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="109" column="32" selection-start-line="109" selection-start-column="32" selection-end-line="109" selection-end-column="32" />
+        <state relative-caret-position="1087">
+          <caret line="102" column="25" selection-start-line="102" selection-start-column="25" selection-end-line="102" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="252" column="13" selection-start-line="252" selection-start-column="13" selection-end-line="252" selection-end-column="13" />
+        <state relative-caret-position="268">
+          <caret line="632" column="1" selection-start-line="632" selection-start-column="1" selection-end-line="632" selection-end-column="1" />
           <folding>
             <element signature="e#0#22058#0" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -845,44 +818,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/EntertainmentPage.java">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestEntertainmentPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="96" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/ExcelReaderPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="18" column="183" selection-start-line="18" selection-start-column="183" selection-end-line="18" selection-end-column="183" />
+        <state relative-caret-position="-3696">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestPoliticalPage.java">
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/datasource/DatabaseOperation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-476">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#696#704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/SearchPageForSQLDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestHomePage.java">
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/SearchFeatures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-196">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        <state relative-caret-position="380">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testSignInPageObjects/TestGoogleSheetLatest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/PoliticalPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/CreateAccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -891,25 +891,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1816">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="180">
+          <caret line="63" column="23" lean-forward="true" selection-start-line="60" selection-start-column="4" selection-end-line="63" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/test/resources/CNNTestRunner.xml">
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/ExcelReaderPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+        <state relative-caret-position="127">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/CreateAccountPage.java">
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestExcelReaderPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+        <state relative-caret-position="32">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -918,8 +921,143 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestCreateAccountPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="252">
           <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestEntertainmentPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestFooterLinkPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="18" column="43" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestPoliticalPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="17" selection-start-line="15" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestSearchFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestSearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestSigninPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/resources/CNNTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/testPages/TestSportPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/SportPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="137" column="75" selection-start-line="137" selection-start-column="75" selection-end-line="137" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/EntertainmentPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="72" column="83" selection-start-line="72" selection-start-column="83" selection-end-line="72" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="41" column="62" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/FooterLinkPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/pages/SigninPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

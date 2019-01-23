@@ -21,7 +21,10 @@ public class SigninPage extends CommonAPI {
     WebElement submitButton;
     @FindBy(xpath = "//ul[@class='atom errorMessage']")
     WebElement findErrorMassage;
-
+    public void signINFunctionForGoogle(){
+        sportLink.click();
+        signinButton.click();
+        signinwithEmail.click();}
     public void signinFunction(){
         sportLink.click();
         signinButton.click();
@@ -30,7 +33,7 @@ public class SigninPage extends CommonAPI {
         emailBox.sendKeys("tahsan gmail.com");
         passworwBox.sendKeys("abc123");
         submitButton.click();}
-     public  String signinFunctionVarify(){
+    public  String signinFunctionVarify(){
         String text=findErrorMassage.getText();
         return text;
 

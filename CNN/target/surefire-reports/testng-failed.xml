@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [CNN Automation Script ]">
+  <parameter name="useCloudEnv" value="false"/>
+  <parameter name="os" value="Windows"/>
+  <parameter name="os_version" value="10"/>
+  <parameter name="browserVersion" value="60.0"/>
+  <parameter name="browserName" value="chrome"/>
+  <parameter name="cloudEnvName" value="browserstack"/>
+  <parameter name="url" value="https://www.cnn.com"/>
+  <test thread-count="5" verbose="0" name="Search (failed)">
+    <classes>
+      <class name="testSignInPageObjects.TestGoogleSheetLatest">
+        <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="invalidSigninByGoogleSheetApi"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="setUp"/>
+          <include name="initializationOfElements"/>
+          <include name="startExtent"/>
+          <include name="cleanUP"/>
+        </methods>
+      </class> <!-- testSignInPageObjects.TestGoogleSheetLatest -->
+    </classes>
+  </test> <!-- Search (failed) -->
+</suite> <!-- Failed suite [CNN Automation Script ] -->

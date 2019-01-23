@@ -10,8 +10,6 @@ import java.util.List;
 
 public class TestPoliticalPage extends PoliticalPage {
     PoliticalPage pp;
-
-
     @BeforeMethod
     public void getNews(){ pp= PageFactory.initElements(driver, PoliticalPage.class);}
     @Test
@@ -24,7 +22,6 @@ public class TestPoliticalPage extends PoliticalPage {
     public void test2018ElectionResultNews(){
         pp.search2018ElectionResultNews();
     }
-
     @Test
     public void testPoliticalNewsTitle(){
         String actual=pp.searchTitle();

@@ -19,9 +19,14 @@
             <!--<class name="testPages.TestExcelReaderPage"/>-->
             <!--<class name="testPages.TestEntertainmentPage"/>-->
             <!--<class name="testPages.TestSigninPage"/>-->
+            <class name="testPages.TestSportPage"/>
             <!--<class name="testPages.TestSportPage"/>-->
-            <!--<class name="testPages.TestSportPage"/>-->
-            <class name="testPages.TestCreateAccountPage"/>
+            <!--<class name="testPages.TestCreateAccountPage"/>-->
+            <!--<class name="testSignInPageObjects.TestGoogleSheetLatest"/>-->
+            <!--<class name="testPages.TestSearchFeature"/>-->
+            <!--<class name="testPages.TestSearch"/>-->
+            <!--<class name="testPages.TestSearchPage"/>-->
+            <!--<class name="testPages.TestFooterLinkPage"/>-->
 
         </classes>
     </test>

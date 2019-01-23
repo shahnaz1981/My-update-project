@@ -61,8 +61,6 @@ public class HomePage extends CommonAPI {
     public String getTitle1(){
         driver.findElement(By.linkText("U.S.")).click();
         String actual=driver.getTitle();
-        String expected="US News – Top national stories and latest headlines - CNN";
-        Assert.assertEquals(actual,expected);
         return actual;}
     public  static boolean testlogo(){ boolean logo=findlogo.isDisplayed();return logo;}
     public void searchUsNews(){ getUsTopStoriesAndLatestHeadlines.click();}
@@ -85,10 +83,8 @@ public class HomePage extends CommonAPI {
         String expected="World news – breaking news, videos and headlines - CNN";
         Assert.assertEquals(actual,expected);return actual;}
     public  String searchTextOfBan()throws InterruptedException{chechTraOption.click();destinationInfo.click();
-      String actual=getTextOfBangkok.getText();
-      String expected="Bangkok";
-      Assert.assertEquals(actual,expected);
-     return actual; }
+       String actual=getTextOfBangkok.getText();
+       return actual; }
     public static void searchbut(){
         searchbutton.click();}
     public static void searchbox(){
@@ -96,8 +92,6 @@ public class HomePage extends CommonAPI {
     public static String searchtext(){
       searchbutton.click();searchbox.sendKeys("us", Keys.ENTER);
       String actual=getText.getText();
-      String expected="Everything";
-      Assert.assertEquals(actual,expected);
       return actual;}
     public void dropdownHandle1()throws InterruptedException{
         menuBar.click();
@@ -109,7 +103,6 @@ public class HomePage extends CommonAPI {
     public String  searchText()throws InterruptedException{
         searchbutton.click();searchbox.sendKeys("world", Keys.ENTER);
         String actual=getText2.getText();
-        String expected="Stories";
-        Assert.assertEquals(actual,expected);return actual; }
+        return actual; }
 
 }
